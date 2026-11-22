@@ -1,3 +1,5 @@
+John's global rules come first: `fleet/global.md` in johnafarmer/agent-desktop, which every fleet machine loads as `~/.claude/CLAUDE.md` and `~/.codex/AGENTS.md`. Nothing in this file overrides them.
+
 ## Build and tests
 
 On Windows we use msys2 and ucrt64 to compile.
